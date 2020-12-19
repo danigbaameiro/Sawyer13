@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Sawyer13/Sawyer13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center" style="width:100%">
+  <img src="https://media-exp1.licdn.com/dms/image/C5616AQF8hVVc-qjrqw/profile-displaybackgroundimage-shrink_200_800/0/1541440797431?e=1613606400&v=beta&t=R1ApCDe3M7vSldUvshAka8kz-btVOhZrH6EFvF2QWzw" style="width:100%">
+</div>
+
+### Hi there 👋
